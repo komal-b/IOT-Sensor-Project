@@ -14,6 +14,8 @@ This project simulates IoT sensor monitoring. It displays machine status and env
 
 ### Frontend
 - ⚛️ React
+-  CSS
+-  HTML
   
 ### Backend
 - 🐍 FastAPI
