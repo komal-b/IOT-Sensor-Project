@@ -13,10 +13,8 @@ This project simulates IoT sensor monitoring. It displays machine status and env
 ## 🧱 Tech Stack
 
 ### Frontend
-- ⚛️ React (Vite)
-- 🎨 Tailwind CSS
-- 📦 npm
-
+- ⚛️ React
+  
 ### Backend
 - 🐍 FastAPI
 - 🔥 PySpark
