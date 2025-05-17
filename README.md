@@ -6,7 +6,7 @@ A full-stack, IoT sensor monitoring system that combines a **React-based fronten
 
 ## 📌 Overview
 
-This project simulates real-time IoT sensor monitoring. It displays machine status and environmental data on a responsive dashboard, detects anomalies, and triggers alerts. The system uses Spark for scalable data processing and FastAPI for exposing APIs to the frontend.
+This project simulates IoT sensor monitoring. It displays machine status and environmental data on a responsive dashboard, detects anomalies, and triggers alerts. The system uses Spark for scalable data processing and FastAPI for exposing APIs to the frontend.
 
 ---
 
