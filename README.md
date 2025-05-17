@@ -1,6 +1,6 @@
 # 🌐 IoT Sensor Dashboard
 
-A full-stack, production-ready IoT sensor monitoring system that combines a **React-based frontend** and a **FastAPI + PySpark backend** to visualize, analyze, and alert on real-time sensor data.
+A full-stack, IoT sensor monitoring system that combines a **React-based frontend** and a **FastAPI + PySpark backend** to visualize, analyze, and alert on real-time sensor data.
 
 ---
 
